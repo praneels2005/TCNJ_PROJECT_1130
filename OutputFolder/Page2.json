@@ -1,0 +1,122 @@
+[
+    {
+        "Page:": 2,
+        "Index: ": 0,
+        "Sequence Name": "Saccharomyces cerevisiae strain CEN.PK113-7D chromosome XII",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CP046092.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 1,
+        "Sequence Name": "Saccharomyces cerevisiae strain GLBRCY22-3 chromosome XII, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LBMA01000012.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 2,
+        "Sequence Name": "Chrysochromulina tobinii strain CCMP291 CAF.Contig8147, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JWZX01002202.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 3,
+        "Sequence Name": "Candida metapsilosis strain BP57 chromosome Unknown scaffold2, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_027138160.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 4,
+        "Sequence Name": "Candida oxycetoniae strain CBS 10844 chromosome Unknown scaffold3, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_026055368.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 5,
+        "Sequence Name": "Candida margitis strain CBS 14175 chromosome Unknown scaffold7, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_026261806.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 6,
+        "Sequence Name": "Candida pseudojiufengensis strain CBS 10847 chromosome Unknown scaffold1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_026261530.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 7,
+        "Sequence Name": "Candida theae strain CBS 12239 chromosome Unknown scaffold7, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_026261433.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 8,
+        "Sequence Name": "Candida margitis strain CBS 14175 scaffold7, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAHZQW010000083.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 9,
+        "Sequence Name": "Candida pseudojiufengensis strain CBS 10847 scaffold1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAIHNE010000035.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 10,
+        "Sequence Name": "Candida theae strain CBS 12239 scaffold7, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAIHNG010000115.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 11,
+        "Sequence Name": "[Candida] subhashii strain CBS 10753 chromosome Unknown scaffold65, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_026057233.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 12,
+        "Sequence Name": "Malassezia furfur strain CBS 14141 Backbone_1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAKMWF010000001.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 13,
+        "Sequence Name": "Candida oxycetoniae strain CBS 10844 scaffold3, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAHUZD010000026.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 14,
+        "Sequence Name": "[Candida] subhashii strain CBS 10753 scaffold65, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAGSYN010000070.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 15,
+        "Sequence Name": "Candida metapsilosis strain BP57 scaffold2, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAEOAQ010000002.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 16,
+        "Sequence Name": "Saccharomyces paradoxus strain CBS432 chromosome XII sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CP020253.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 17,
+        "Sequence Name": "Emiliania huxleyi CCMP1516 unplaced genomic scaffold EMIHUscaffold_110, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_005201791.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 18,
+        "Sequence Name": "Emiliania huxleyi CCMP1516 chromosome Unknown EMIHUscaffold_131, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_005201277.1?report=fasta"
+    },
+    {
+        "Page:": 2,
+        "Index: ": 19,
+        "Sequence Name": "Emiliania huxleyi CCMP1516 chromosome Unknown EMIHUscaffold_142, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_005201176.1?report=fasta"
+    }
+]

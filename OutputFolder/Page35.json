@@ -1,0 +1,122 @@
+[
+    {
+        "Page:": 35,
+        "Index: ": 0,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig00532, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01000532.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 1,
+        "Sequence Name": "Ficus carica Masui Dauphine DNA, PG3028_contig15912, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BTGU01015912.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 2,
+        "Sequence Name": "Entrophospora sp. SA101 genome assembly, contig: contig004368, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CAUDLV010004368.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 3,
+        "Sequence Name": "Entrophospora sp. SA101 genome assembly, contig: contig001384, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CATQXP010001384.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 4,
+        "Sequence Name": "Rhodotorula toruloides strain LAB-07 contig1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAOWAH010000001.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 5,
+        "Sequence Name": "Penicillium capsulatum strain IBT 29712 utg000004l, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAQJZR010000004.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 6,
+        "Sequence Name": "Aspergillus affinis strain CMG 70 chromosome Unknown NODE_167_length_61688_cov_86_527763, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_026515948.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 7,
+        "Sequence Name": "Aspergillus flavus strain IC278 contig_5, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAOAMT010000005.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 8,
+        "Sequence Name": "Saccharomyces uvarum strain CBS7001 chromosome XII, complete sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CP113775.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 9,
+        "Sequence Name": "Saccharomyces cerevisiae strain 1014 FZC25_8899, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/WNEH01000359.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 10,
+        "Sequence Name": "Saccharomyces cerevisiae strain EM93 FZC26_26075, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/WOFK01000571.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 11,
+        "Sequence Name": "Aspergillus flavus strain NRRL 3357 chromosome 1",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CP044619.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 12,
+        "Sequence Name": "Saccharomyces uvarum strain ZP964 genome assembly, chromosome: 12",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/OX365939.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 13,
+        "Sequence Name": "Saccharomyces uvarum strain CBS7001 genome assembly, chromosome: 12",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/OX365923.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 14,
+        "Sequence Name": "Saccharomyces kudriavzevii IFO 1802 strain IFO1802 genome assembly, chromosome: 12",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/OX365907.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 15,
+        "Sequence Name": "Saccharomyces kudriavzevii ZP591 genome assembly, chromosome: 12",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/OX365891.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 16,
+        "Sequence Name": "Saccharomyces mikatae IFO 1815 strain IFO1815 genome assembly, chromosome: 12",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/OX365768.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 17,
+        "Sequence Name": "Aspergillus affinis strain CMG 70 NODE_167_length_61688_cov_86_527763, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAGXNN020000167.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 18,
+        "Sequence Name": "Saccharomyces eubayanus strain UCD646 genome assembly, chromosome: 12",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/OX291643.1?report=fasta"
+    },
+    {
+        "Page:": 35,
+        "Index: ": 19,
+        "Sequence Name": "Saccharomyces eubayanus strain UCD650 genome assembly, chromosome: 12",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/OX291502.1?report=fasta"
+    }
+]

@@ -1,0 +1,48 @@
+import os
+import json
+import re
+import threading
+from playwright.sync_api import Playwright, sync_playwright, expect
+
+def getPageStrains():
+    folder_path = "/Users/praneelpothukanuri/Desktop/Sophomore/TCNJ_PROJECT_1130/OutputFolder"
+    
+    #traversing through folder "OutputFolder"
+    for item in os.listdir(folder_path):
+        #Full path to file
+        full_pwd = os.path.join(folder_path, item)
+        if os.path.isfile(full_pwd):
+            #print(len(item))
+            #threads = [None] * (len(item))
+            #Traverse URLS within page, obtaining page sources
+            #Create a new folder with json files of pages' strains' names and sequences
+            print(item)
+            with open(full_pwd, "r") as file:
+                Page = json.load(file)
+            #print(len(Page))
+            threads = [None] * (len(Page))
+            #Implement nested threading
+            pos = 0
+            for strain in Page:
+                with sync_playwright() as playwright:
+                    threads[pos] = threading.Thread(target=getSequence, args=(strain["Sequence Name"],playwright, strain["URL"]))
+                    threads[pos].start()
+                pos+=1
+            for i in threads:
+                i.join() 
+            
+             
+def getSequence(Name, playwright: Playwright, URL) -> None:
+    browser = playwright.chromium.launch()
+    context = browser.new_context()
+    page = context.new_page()
+    page.goto(URL)
+    #locator = page.locator('selector')
+    #page.get_by_text(">CP135955.1 Saccharomyces").click()
+    page.get_by_text(page.locator("#viewercontent1"))
+
+    # ---------------------
+    context.close()
+    browser.close()
+    
+getPageStrains()

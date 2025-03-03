@@ -1,0 +1,56 @@
+[
+    {
+        "Page:": 13,
+        "Index: ": 0,
+        "Sequence Name": "Clavispora lusitaniae strain FDAARGOS_655, whole genome shotgun sequencing project",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JAASFG010000002.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 1,
+        "Sequence Name": "Clavispora lusitaniae strain FDAARGOS_655 tig00000038_pilon, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JABWAD010000002.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 2,
+        "Sequence Name": "Candida albicans strain FDAARGOS_656, whole genome shotgun sequencing project",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JABWAC010000001.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 3,
+        "Sequence Name": "Candida albicans strain FDAARGOS_656 tig00000005_pilon, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JABWAD010000055.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 4,
+        "Sequence Name": "Candida parapsilosis strain FDAARGOS_653, whole genome shotgun sequencing project",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JABWAB010000001.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 5,
+        "Sequence Name": "Candida parapsilosis strain FDAARGOS_653 tig00000001_pilon, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JABWAA010000001.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 6,
+        "Sequence Name": "Candida albicans strain FDAARGOS_656 tig00000154_pilon, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JABVZZ010000001.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 7,
+        "Sequence Name": "Candida parapsilosis strain FDAARGOS_652, whole genome shotgun sequencing project",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/WMJW01000054.1?report=fasta"
+    },
+    {
+        "Page:": 13,
+        "Index: ": 8,
+        "Sequence Name": "Candida parapsilosis strain FDAARGOS_652 tig00000001_pilon, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CP015057.1?report=fasta"
+    }
+]

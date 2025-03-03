@@ -1,0 +1,122 @@
+[
+    {
+        "Page:": 32,
+        "Index: ": 0,
+        "Sequence Name": "Rhodosporidiobolus ruineniae JCM8097 DNA, Rs_ruineniae_JCM8097_v1_ctg41, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUU010000041.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 1,
+        "Sequence Name": "Sporobolomyces roseus JCM5353 DNA, S_roseus_JCM5353T_v1_ctg646, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVO010000646.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 2,
+        "Sequence Name": "Rhodosporidiobolus nylandii JCM10213 DNA, Rs_nylandii_JCM10213T_v1_ctg44, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUR010000044.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 3,
+        "Sequence Name": "Rhodosporidiobolus lusitaniae JCM8547 DNA, Rs_lusitaniae_JCM8547T_v1_ctg26, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUP010000026.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 4,
+        "Sequence Name": "Rhodosporidiobolus poonsookiae JCM10207 DNA, Rs_poonsookiae_JCM10207v1_ctg199, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUT010000199.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 5,
+        "Sequence Name": "Sporobolomyces pararoseus JCM5350 DNA, S_pararoseus_JCM5350T_v1_ctg176, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVM010000176.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 6,
+        "Sequence Name": "Rhodosporidiobolus azoricus JCM11251 DNA, Rs_azoricus_JCM11251v1_ctg28, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUO010000028.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 7,
+        "Sequence Name": "Sporobolomyces johnsonii JCM5296 DNA, S_johnsonii_JCM5296_v1_ctg84, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVJ010000084.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 8,
+        "Sequence Name": "Sporobolomyces johnsonii JCM1840 DNA, S_johnsonii_JCM1840T_v1_ctg28, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVI010000028.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 9,
+        "Sequence Name": "Sporobolomyces pararoseus JCM3765 DNA, S_pararoseus_JCM3765_v1_ctg2, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVL010000002.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 10,
+        "Sequence Name": "Sporobolomyces salmonicolor JCM1841 DNA, S_salmonicolor_JCM1841v1_ctg12, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVR010000012.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 11,
+        "Sequence Name": "Rhodotorula glutinis JCM8208 DNA, Rt_glutinis_JCM8208T_v1_ctg47, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUY010000047.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 12,
+        "Sequence Name": "Sporobolomyces salmonicolor JCM21900 DNA, S_salmonicolorJCM21900v1_ctg328, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVS010000328.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 13,
+        "Sequence Name": "Rhodotorula babjevae JCM9279 DNA, Rt_babjevae_JCM9279T_v1_ctg8, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUW010000008.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 14,
+        "Sequence Name": "Rhodotorula toruloides NBRC10512 DNA, Rt_toruloides_NBRC10512v1_ctg44, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVE010000044.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 15,
+        "Sequence Name": "Sporobolomyces blumeae JCM10212 DNA, S_blumeae_JCM10212T_v1_ctg136, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVG010000136.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 16,
+        "Sequence Name": "Rhodotorula araucariae JCM3770 DNA, Rt_araucariae_JCM3770T_v1_ctg174, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUV010000174.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 17,
+        "Sequence Name": "Sporobolomyces ruberrimus JCM16303 DNA, S_ruberrimus_JCM16303_v1_ctg15, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVP010000015.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 18,
+        "Sequence Name": "Rhodotorula paludigena JCM10292 DNA, Rt_paludigena_JCM10292v1_ctg8, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVC010000008.1?report=fasta"
+    },
+    {
+        "Page:": 32,
+        "Index: ": 19,
+        "Sequence Name": "Rhodotorula toruloides NBRC10513 DNA, Rt_toruloides_NBRC10513v1_ctg44, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVF010000044.1?report=fasta"
+    }
+]

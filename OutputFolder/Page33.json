@@ -1,0 +1,122 @@
+[
+    {
+        "Page:": 33,
+        "Index: ": 0,
+        "Sequence Name": "Rhodotorula graminis JCM3775 DNA, Rt_graminis_JCM3775T_v1_ctg86, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUZ010000086.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 1,
+        "Sequence Name": "Rhodotorula mucilaginosa JCM8115 DNA, Rt_mucilaginosa_JCM8115v1_ctg63, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVA010000063.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 2,
+        "Sequence Name": "Sporobolomyces salmoneus JCM6883 DNA, S_salmoneus_JCM6883_v1_ctg5, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVQ010000005.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 3,
+        "Sequence Name": "Sporobolomyces carnicolor JCM3766 DNA, S_carnicolor_JCM3766T_v1_ctg333, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVH010000333.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 4,
+        "Sequence Name": "Rhodotorula dairenensis JCM3774 DNA, Rt_dairenensis_JCM3774v1_ctg126, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABUX010000126.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 5,
+        "Sequence Name": "Rhodotorula pacifica JCM10908 DNA, Rt_pacifica_JCM10908T_v1_ctg6, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVB010000006.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 6,
+        "Sequence Name": "Sporobolomyces phaffii JCM11491 DNA, S_phaffii_JCM11491T_v1_ctg29, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVN010000029.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 7,
+        "Sequence Name": "Sporobolomyces koalae JCM15063 DNA, S_koalae_JCM15063T_v1_ctg1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVK010000001.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 8,
+        "Sequence Name": "Rhodotorula sphaerocarpa JCM8202 DNA, Rt_sphaerocarpa_JCM8202v1_ctg41, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BAABVD010000041.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 9,
+        "Sequence Name": "Phyllosticta paracitricarpa strain CBS 141357 BKA81scaffold_28, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JBBWUC010000028.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 10,
+        "Sequence Name": "Phyllosticta capitalensis strain CBS 128856 BKA78scaffold_6, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JBBWUB010000006.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 11,
+        "Sequence Name": "Phyllosticta citribraziliensis strain CBS 100098 BC567scaffold_3, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JBBWUG010000003.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 12,
+        "Sequence Name": "Phyllosticta citrichinensis strain CBS 129764 IWX90scaffold_1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JBBWUH010000001.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 13,
+        "Sequence Name": "Arxiozyma heterogenica strain C57BL/6 scaffold_21, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/JARZAD010000021.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 14,
+        "Sequence Name": "Aspergillus eucalypticola CBS 122712 chromosome Unknown BO83scaffold_2, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_020290276.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 15,
+        "Sequence Name": "Schizosaccharomyces cryophilus OY26 unplaced genomic scaffold supercont4.1, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_013185624.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 16,
+        "Sequence Name": "Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.3, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_013185621.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 17,
+        "Sequence Name": "Talaromyces stipitatus ATCC 10500 scf_1105507295527 genomic scaffold, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_002990114.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 18,
+        "Sequence Name": "Meyerozyma guilliermondii ATCC 6260 scaffold_4 genomic scaffold, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_001809797.1?report=fasta"
+    },
+    {
+        "Page:": 33,
+        "Index: ": 19,
+        "Sequence Name": "Meyerozyma guilliermondii ATCC 6260 uncharacterized protein (PGUG_03470), partial mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_001484039.1?report=fasta"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Page:": 50,
+        "Index: ": 0,
+        "Sequence Name": "Aspergillus oryzae RIB40 DNA, SC005",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AP007151.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 1,
+        "Sequence Name": "[Candida] intermedia strain PYCC 4715 genome assembly, chromosome: I",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LT635764.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 2,
+        "Sequence Name": "[Candida] intermedia strain CBS 141442 genome assembly, chromosome: III",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LT635758.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 3,
+        "Sequence Name": "Lachancea mirantina genome assembly, chromosome: C, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LT598466.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 4,
+        "Sequence Name": "Lachancea meyersii CBS 8951 genome assembly, chromosome: H, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LT598480.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 5,
+        "Sequence Name": "Lachancea dasiensis CBS 10888 genome assembly, chromosome: G, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LT598457.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 6,
+        "Sequence Name": "Yarrowia lipolytica strain CLIB89(W29) chromosome 1E, complete sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CP017557.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 7,
+        "Sequence Name": "Xylona heveae TC161 unplaced genomic scaffold L228scaffold_3, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_017264195.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 8,
+        "Sequence Name": "Glonium stellatum strain CBS 207.34 unplaced genomic scaffold AOQ84NODE_2562, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/KV750153.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 9,
+        "Sequence Name": "Penicillium marneffei ATCC 18224 scf_1105668340758 genomic scaffold, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/DS995900.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 10,
+        "Sequence Name": "Aspergillus fumigatus A1163 scf_000001 genomic scaffold, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/DS499594.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 11,
+        "Sequence Name": "Zea mays 101 kDa heat shock protein (HSP101) mRNA, partial cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AF083327.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 12,
+        "Sequence Name": "Talaromyces stipitatus ATCC 10500 scf_1105507295527 genomic scaffold, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/EQ962653.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 13,
+        "Sequence Name": "Neosartorya fischeri NRRL 181 1099437636249 genomic scaffold, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/DS027688.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 14,
+        "Sequence Name": "Choanephora cucurbitarum strain KUS-F28377 scaffold_188, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LUGH01000189.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 15,
+        "Sequence Name": "Grifola frondosa strain 9006-11 000000F, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LUGG01000001.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 16,
+        "Sequence Name": "Grifola frondosa strain 9006-11 000012F, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LUGG01000013.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 17,
+        "Sequence Name": "Xylona heveae TC161 unplaced genomic scaffold L228scaffold_3, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/KV407456.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 18,
+        "Sequence Name": "Nakaseomyces glabratus isolate 3A scaffold2, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LMAY01000112.1?report=fasta"
+    },
+    {
+        "Page:": 50,
+        "Index: ": 19,
+        "Sequence Name": "Nakaseomyces glabratus isolate 3B scaffold17, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LMAB01000088.1?report=fasta"
+    }
+]

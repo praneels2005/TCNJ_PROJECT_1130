@@ -1,0 +1,122 @@
+[
+    {
+        "Page:": 30,
+        "Index: ": 0,
+        "Sequence Name": "Candida orthopsilosis Co 90-125, chromosome 4 draft sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/HE681722.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 1,
+        "Sequence Name": "[Candida] glabrata strain DSY565 chromosome G, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CM008101.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 2,
+        "Sequence Name": "[Candida] glabrata strain DSY562 chromosome G, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CM008087.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 3,
+        "Sequence Name": "Nakaseomyces glabratus strain DSY565 chromosome G, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/MVOF01000007.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 4,
+        "Sequence Name": "Nakaseomyces glabratus strain DSY562 chromosome G, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/MVOE01000007.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 5,
+        "Sequence Name": "Malassezia sympodialis ATCC 42132 genome assembly, chromosome: 6",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LT671826.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 6,
+        "Sequence Name": "Saccharomyces cerevisiae strain GLBRCY22-3 chromosome XII, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/CM004305.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 7,
+        "Sequence Name": "Moesziomyces aphidis strain DSM 70725 Seq23, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/AWNI01000015.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 8,
+        "Sequence Name": "Pseudozyma antarctica T-34 DNA, contig: scaffold00001, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/DF196767.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 9,
+        "Sequence Name": "Aspergillus fumigatus Z5 chromosome Unknown scaffold_15, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/KQ087371.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 10,
+        "Sequence Name": "Pseudozyma flocculosa PF-1 unplaced genomic scaffold scaffold00016, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/KE361638.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 11,
+        "Sequence Name": "Mucor ambiguus DNA, scaffold: scf_mam1_v10282, strain NBRC 6742, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/DF836571.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 12,
+        "Sequence Name": "Rhizoctonia solani AG-1 IB genome assembly 7/3/14, scaffold 7/3/14_scaffold00003, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/LN679102.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 13,
+        "Sequence Name": "Podospora anserina genomic DNA, chromosome 7",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/FO904942.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 14,
+        "Sequence Name": "Mus musculus SKD3 mRNA, complete cds",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/U09874.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 15,
+        "Sequence Name": "Saccharomyces cerevisiae S288C chromosome XIV, complete sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NC_001146.8?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 16,
+        "Sequence Name": "Saccharomyces cerevisiae S288C Apj1p (APJ1), partial mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001182915.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 17,
+        "Sequence Name": "TPA_inf: Saccharomyces cerevisiae S288C chromosome XIV, complete sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/BK006947.3?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 18,
+        "Sequence Name": "Wickerhamomyces ciferrii WGS project CAIF00000000 data, strain NRRL Y-1031 F-60-10, contig 00195, whole genome shotgun sequence",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/NW_011887545.1?report=fasta"
+    },
+    {
+        "Page:": 30,
+        "Index: ": 19,
+        "Sequence Name": "Wickerhamomyces ciferrii chaperone ATPase HSP78 (BN7_4977), partial mRNA",
+        "URL": "https://www.ncbi.nlm.nih.gov/nuccore/XM_011274445.1?report=fasta"
+    }
+]
